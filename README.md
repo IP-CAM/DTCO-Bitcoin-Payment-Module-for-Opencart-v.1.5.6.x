@@ -1,4 +1,4 @@
-# DTCO bitcoin payment module for OpenCart
+﻿# DTCO bitcoin payment module for OpenCart
 
 ###Instant integration bitcoin payments with your OpenCart online store.
 
@@ -10,7 +10,9 @@ Upload all file under 'upload' directory to the root folder of your OpenCart ins
 
 #### - How to use -
 1. Make sure to apply API key from DTCO.
+
 2. Enable the DTCO Payment in your 'Payment Extension' of OpenCart.
+
 3. Put the API key in the setting.
 
 ####　
