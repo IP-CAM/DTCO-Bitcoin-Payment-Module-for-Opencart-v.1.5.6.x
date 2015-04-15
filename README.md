@@ -1,4 +1,4 @@
-# DTCO for OpenCart
+# DTCO bitcoin payment plugin for OpenCart
 
 ###Instant integration bitcoin payments with your OpenCart online store.
 
